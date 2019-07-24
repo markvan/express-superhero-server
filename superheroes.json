@@ -1,0 +1,29 @@
+{
+  "count": 3,
+  "superheroes": [
+    {
+      "id": 1,
+      "valid": true,
+      "name": "Enviro",
+      "alterEgo": "Greta Thunberg",
+      "power": "Instigating global environmental activism",
+      "url": "https://fee.org/media/33227/greta.jpg?anchor=center&mode=crop&width=256"
+    },
+    {
+      "id": 2,
+      "valid": false,
+      "name": "Misinf",
+      "alterEgo": "Boris Johnson",
+      "power": "Misinformation radiation",
+      "url": "https://cdn.extra.ie/wp-content/uploads/2018/01/16083515/boris-feat-1068x623.jpg"
+    },
+    {
+      "id": 3,
+      "valid": true,
+      "name": "Lightning",
+      "alterEgo": "Ursain Bolt",
+      "power": "Really fast",
+      "url": "https://tinyurl.com/ursain-pic"
+    }
+  ]
+}
